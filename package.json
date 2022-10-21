@@ -1,16 +1,16 @@
 {
-"name": "wowgame369",
-"theme": "wow game 369",
-"version": "5.3.2",
-"description": "wow game 369 สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"wow game 369",
-"wow game 369 เครดิตฟรี",
-"wow game 369 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wowgame369",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wowgame369",
+  "theme": "wow game 369",
+  "version": "5.4.0",
+  "description": "wow game 369 สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "wow game 369",
+    "wow game 369 เครดิตฟรี",
+    "wow game 369 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wowgame369",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
